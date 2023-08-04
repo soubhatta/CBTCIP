@@ -1,2 +1,2 @@
 # CIPHERBYTE
-Projects on Java Programming and Web Development Internship
+Projects on Java Programming Internship
