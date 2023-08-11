@@ -7,7 +7,7 @@ Task 2 - Online Examination
 
 Project on Web Development Internship
 
-Task 1 - Landing Page.
+Task 2 - Landing Page.
 
-Task 2 - Portfolio Website.
+Task 3 - Portfolio Website.
 
